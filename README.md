@@ -29,6 +29,7 @@ pip install streamlit
 
 🔹 Run the App
 streamlit run main.py
+
 The game will automatically open in your browser 🌐✨
 
 
