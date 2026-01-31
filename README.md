@@ -3,6 +3,7 @@
 A fun and interactive Snake Water Gun game built using Python & Streamlit 🎮.
 Play against the computer, test your luck and strategy, and enjoy a clean, colorful UI with real-time results!
 
+
 ✨ Features
 
 👤 Enter your name to personalize gameplay
@@ -21,9 +22,13 @@ Play against the computer, test your luck and strategy, and enjoy a clean, color
 
 
 📜 Game Rules
+
 🐍 Snake drinks Water → Snake wins
+
 💧 Water rusts Gun → Water wins
+
 🔫 Gun kills Snake → Gun wins
+
 🤝 Same choice → Draw
 
 
@@ -41,18 +46,27 @@ The game will automatically open in your browser 🌐✨
 
 
 🛠️ Tech Stack
+
 🐍 Python
+
 🎯 Streamlit
+
 🎲 Random module
+
 💡 Session State for game flow
 
 
 📂 Project Use Case
 This project is perfect for:
+
 🎓 Mini-projects
+
 📁 GitHub portfolio
+
 🧑‍💻 Learning Streamlit & Python logic
+
 🎮 Fun interactive demos
+
 
 ⭐ If you like this project, give it a star on GitHub and feel free to fork it!
 Happy coding 😄🚀
