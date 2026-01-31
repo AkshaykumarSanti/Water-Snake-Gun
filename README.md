@@ -71,4 +71,5 @@ This project is perfect for:
 
 
 ⭐ If you like this project, give it a star on GitHub and feel free to fork it!
+
 Happy coding 😄🚀
