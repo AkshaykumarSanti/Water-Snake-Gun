@@ -37,9 +37,11 @@ Simple rules, endless fun 😄
 Make sure Python and Streamlit are installed.
 
 🔹 Install Streamlit
+
 pip install streamlit
 
 🔹 Run the App
+
 streamlit run main.py
 
 The game will automatically open in your browser 🌐✨
