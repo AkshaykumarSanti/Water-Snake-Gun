@@ -33,7 +33,9 @@ Play against the computer, test your luck and strategy, and enjoy a clean, color
 
 
 Simple rules, endless fun 😄
+
 ▶️ How to Run the Project
+
 Make sure Python and Streamlit are installed.
 
 🔹 Install Streamlit
