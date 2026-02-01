@@ -1,6 +1,7 @@
 🐍💧🔫 Snake Water Gun Game
 
 A fun and interactive Snake Water Gun game built using Python & Streamlit 🎮.
+
 Play against the computer, test your luck and strategy, and enjoy a clean, colorful UI with real-time results!
 
 
