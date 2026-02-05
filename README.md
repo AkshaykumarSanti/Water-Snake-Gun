@@ -1,78 +1,95 @@
-🐍💧🔫 Snake Water Gun Game
+Snake Water Gun Game 🐍💧🔫
 
-A fun and interactive Snake Water Gun game built using Python & Streamlit 🎮.
+A fun and interactive Snake Water Gun game built using Python and Streamlit.
+Play against the computer, test your luck and strategy, and enjoy a simple and colorful UI with real-time results.
 
-Play against the computer, test your luck and strategy, and enjoy a clean, colorful UI with real-time results!
+Project Overview
 
+This project is a small interactive web app created using Streamlit where a user can play the classic Snake–Water–Gun game against the computer.
 
-✨ Features
+It demonstrates:
 
-👤 Enter your name to personalize gameplay
+Python game logic
 
-🐍💧🔫 Choose between Snake, Water, or Gun
+Streamlit UI development
 
-🤖 Computer makes random choices
+Session state management
 
-⚖️ Instant result: Win / Lose / Draw
+Randomized computer moves
 
-🎈 Winning celebration with animations
+Features
 
-🔄 Reset game session anytime
+Player name input
 
-🎨 Clean and responsive UI using Streamlit styling
+Choice selection (Snake / Water / Gun)
 
+Computer-generated random choice
 
-📜 Game Rules
+Instant result display (Win / Lose / Draw)
 
-🐍 Snake drinks Water → Snake wins
+Reset game option
 
-💧 Water rusts Gun → Water wins
+Simple and responsive UI
 
-🔫 Gun kills Snake → Gun wins
+Celebration animation for wins
 
-🤝 Same choice → Draw
+Game Rules
+Player Choice	Computer Choice	Result
+Snake	Water	Snake wins
+Water	Gun	Water wins
+Gun	Snake	Gun wins
+Same choice	Same choice	Draw
+Tech Stack
 
+Python
 
-Simple rules, endless fun 😄
+Streamlit
 
-▶️ How to Run the Project
+Random module
 
-Make sure Python and Streamlit are installed.
+Session State (Streamlit)
 
-🔹 Install Streamlit
+Installation & Setup
+1. Clone the repository
+git clone https://github.com/your-username/snake-water-gun.git
+cd snake-water-gun
 
+2. Install dependencies
 pip install streamlit
 
-🔹 Run the App
-
+3. Run the application
 streamlit run main.py
 
-The game will automatically open in your browser 🌐✨
 
+The app will open automatically in your browser.
 
-🛠️ Tech Stack
+Project Use Case
 
-🐍 Python
+This project is suitable for:
 
-🎯 Streamlit
+Python beginners
 
-🎲 Random module
+Streamlit practice projects
 
-💡 Session State for game flow
+Mini academic projects
 
+GitHub portfolio projects
 
-📂 Project Use Case
-This project is perfect for:
+Interactive demo applications
 
-🎓 Mini-projects
+Future Improvements
 
-📁 GitHub portfolio
+Score tracking system
 
-🧑‍💻 Learning Streamlit & Python logic
+Multiplayer mode
 
-🎮 Fun interactive demos
+Sound effects
 
+Mobile UI optimization
 
-⭐ If you like this project, give it a star on GitHub and feel free to fork it!
+Leaderboard
 
-Happy coding 😄🚀
+Author
+
+Akshay / Arman
+Python Developer | Student
