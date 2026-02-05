@@ -10,18 +10,18 @@ This project is a small interactive web app created using Streamlit where a user
 ➤ Features:
 
 ● Player name input 
-● Choice selection (Snake / Water / Gun)
+● Choice selection (Snake 🐍 / Water 💧 / Gun 🔫)
 ● Computer-generated random choice
-● Instant result display (Win / Lose / Draw)
+● Instant result display (Win  / Lose / Draw)
 ● Reset game option
 ● Celebration animation for wins
 
 ➤ Game Rules:
 
 ● Player Choice	Computer Choice	Result  
-● Snake	Water	Snake wins  
-● Water	Gun	Water wins  
-● Gun	Snake	Gun wins          
+● Snake	Water	Snake wins 🐍  
+● Water	Gun	Water wins 💧 
+● Gun	Snake	Gun wins 🔫         
 ● Same choice	Same choice	Draw  
 
 ➤ Installation & Setup:
