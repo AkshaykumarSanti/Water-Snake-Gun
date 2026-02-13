@@ -27,9 +27,9 @@ This project is a small interactive web app created using Streamlit where a user
 ➤ Installation & Setup:
 1. Clone the repository
    
-git clone https://github.com/AkshaykumarSanti/snake-water-gun.git  
+   git clone https://github.com/AkshaykumarSanti/snake-water-gun.git  
 
-cd snake-water-gun
+   cd snake-water-gun
 
 3. Install dependencies  
 pip install streamlit
