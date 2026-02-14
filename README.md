@@ -20,7 +20,7 @@ This project is a small interactive web app created using Streamlit where a user
 
 ● Player Choice	Computer Choice	Result  
 ● Snake	Water	Snake wins 🐍  
-● Water	Gun	Water wins 💧 
+● Water	Gun	Water wins 💧   
 ● Gun	Snake	Gun wins 🔫         
 ● Same choice	Same choice	Draw  
 
